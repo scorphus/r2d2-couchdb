@@ -1,0 +1,13 @@
+language: rust
+services:
+  - couchdb
+rust:
+  - stable
+  - beta
+  - nightly
+matrix:
+  allow_failures:
+    - rust: nightly
+before_script:
+  - curl -X PUT localhost:5984/test
+script: cargo test --verbose --no-run && cargo test --verbose
