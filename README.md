@@ -1,6 +1,6 @@
 # r2d2-couchdb [![Build Status][travis-badge]][travis-link] [![MIT License][mit-license-badge]](LICENSE-MIT) [![Apache 2.0][apache-2.0-badge]](LICENSE-APACHE)
 
-[CouchDB] support library for the [r2d2](https://github.com/scorphus/r2d2) connection pool. Read the [documentation].
+[CouchDB] support library for the [r2d2](https://github.com/sfackler/r2d2) connection pool. Read the [documentation].
 
 
 # Example
