@@ -45,4 +45,4 @@ fn main() {
 [mit-license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg
 [apache-2.0-badge]:   https://img.shields.io/badge/license-Apache%202.0-007EC7.svg
 [CouchDB]:            https://github.com/chill-rs/chill
-[documentation]:      https://scorphus.github.io/r2d2-couchdb/doc/v0.1.0/r2d2_couchdb
+[documentation]:      https://scorphus.github.io/r2d2-couchdb/
