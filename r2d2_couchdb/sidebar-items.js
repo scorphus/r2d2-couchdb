@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","A unified enum of errors returned by chill::Client"]],"struct":[["CouchdbConnectionManager","An `r2d2::ManageConnection` for"]]});
